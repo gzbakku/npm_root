@@ -1,6 +1,6 @@
 {
-  "name": "npm_root",
-  "version": "1.0.0",
+  "name": "get_npm_root",
+  "version": "1.0.1",
   "description": "this package provides path to npm root folder where all the global node_modules are stored ",
   "main": "index.js",
   "scripts": {
