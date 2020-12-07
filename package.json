@@ -1,0 +1,15 @@
+{
+  "name": "npm_root",
+  "version": "1.0.0",
+  "description": "this package provides path to npm root folder where all the global node_modules are stored ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "root"
+  ],
+  "author": "tejasav dutt",
+  "license": "ISC"
+}
